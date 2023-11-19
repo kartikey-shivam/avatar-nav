@@ -25,3 +25,6 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.dropdown:hover .dropdown-menu {
+  display: block;
+}

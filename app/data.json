@@ -1,0 +1,26 @@
+{
+    "data": [{
+        "name": "Rahul Singh",
+        "img":"https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?w=740&t=st=1700222415~exp=1700223015~hmac=627fe805cac50caf208e4d6f2b8178db48a0461ad3611be6a488e8d0c0fa150a"
+    },
+    {
+        "name": "Kartikey Saraswat",
+        
+        "img":"https://img.freepik.com/free-photo/fashion-boy-with-yellow-jacket-blue-pants_71767-96.jpg?w=740&t=st=1700222947~exp=1700223547~hmac=ac33e632e23462bb3a3ae374a7a78c42e9546eac43479b4adb6e82c05d08370b"
+    },
+    {
+        "name": "Shivam Sharma",
+       "img":""
+    },{
+        "name": "Kavya Thakur",
+        "img":""
+    },
+    {
+        "name": "Hritik Parashar",
+        "img":"https://img.freepik.com/free-photo/fashion-boy-with-yellow-jacket-blue-pants_71767-96.jpg?w=740&t=st=1700222947~exp=1700223547~hmac=ac33e632e23462bb3a3ae374a7a78c42e9546eac43479b4adb6e82c05d08370b"
+    },
+    {
+        "name": "Rohit Yadav",
+        "img":"https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?w=740&t=st=1700222415~exp=1700223015~hmac=627fe805cac50caf208e4d6f2b8178db48a0461ad3611be6a488e8d0c0fa150a"
+    }]
+}
