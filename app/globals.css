@@ -45,3 +45,7 @@ body {
   background: #6d6d6d; 
 }
 .avatar-con:hover ~ .list-con { display: block; }
+.list-con{
+  position: absolute;
+  left: 12rem;
+}

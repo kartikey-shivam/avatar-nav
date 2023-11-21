@@ -23,8 +23,8 @@ export default async function AvatarNav(){
     let number =0,len=4;
   
     return (
-        <div>
-            <div className="p-10 flex">
+        <div className='flex-col h-min-screen w-full justify-around'>
+            <div className="my-12 flex relative">
               <AvatarGroup className='avatar-con'  max={5}>
                 {data.map((ele:any)=>{
                   let name = ele.name;
@@ -42,9 +42,8 @@ export default async function AvatarNav(){
                   }
                 })}
               </AvatarGroup>
-              {/* {isShown ? ( */}
                      <div className='list-con hidden z-10 hover:block'>
-                      <List className='scrollbar mt-4 -ml-2 rounded absolute h-40 overflow-y-scroll' sx={{ width: '100%', maxWidth: 360, bgcolor: 'gray' }}>
+                      <List className='mt-4 -ml-2 rounded h-40 w-80 overflow-y-scroll' sx={{ width: '100%', maxWidth: 360, bgcolor: 'gray' }}>
                             {data.map((ele)=>{
                                let name = ele.name;
                                const array = name.split(" ");
@@ -81,8 +80,6 @@ export default async function AvatarNav(){
                         
                         </List>
                    </div>
-              {/* ):(null)} */}
-         
             </div>
             <div  className='flex w-100 h-100 p-4 justify-center bg-green'>
                 {isCard ? (

@@ -12,7 +12,7 @@ export default function Home() {
 
 
   return (
-    <main className="flex min-h-screen items-center p-24">
+    <main className="flex min-h-screen px-24 py-12">
       <DynamicHeader />
       {/* <AvatarNav /> */}
     </main>
