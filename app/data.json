@@ -1,26 +1,49 @@
 {
     "data": [{
         "name": "Rahul Singh",
+        "age":"21",
+        "gender":"Male",
+        "bio":"I'm a seasoned sales executive with a track record of exceeding targets and building strong client relationships. With a background in B2B sales, I've built a natural ability to understand customer needs and consistently exceed quota every month.",
+        "shortForm":"RS",
         "img":"https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?w=740&t=st=1700222415~exp=1700223015~hmac=627fe805cac50caf208e4d6f2b8178db48a0461ad3611be6a488e8d0c0fa150a"
     },
     {
         "name": "Kartikey Saraswat",
-        
+        "age":"16",
+        "gender":"Male",
+        "bio":"I am a dedicated human resources professional with a passion for fostering a positive workplace culture and facilitating employee development. With eight years of experience in talent acquisition and HR operations, I've played a key role in building high-performing teams.",
+        "shortForm":"KS",
         "img":"https://img.freepik.com/free-photo/fashion-boy-with-yellow-jacket-blue-pants_71767-96.jpg?w=740&t=st=1700222947~exp=1700223547~hmac=ac33e632e23462bb3a3ae374a7a78c42e9546eac43479b4adb6e82c05d08370b"
     },
     {
         "name": "Shivam Sharma",
+        "age":"19",
+        "gender":"Male",
+        "bio":"I'm a marketing specialist with a passion for digital advertising. I have five years of experience managing a wide range of online campaigns and improving brand visibility for clients across multiple verticals. I love analyzing consumer behavior and leveraging data-driven strategies to maximize ROI.",
+        "shortForm":"SS",
        "img":""
     },{
         "name": "Kavya Thakur",
+        "age":"21",
+        "gender":"Female",
+        "bio":" I pride myself in my communication skills and strategic approaches, which have helped me thrive in highly competitive markets such as SaaS sales. Outside of work, I enjoy playing basketball and volunteering at local charities.",
+        "shortForm":"KT",
         "img":""
     },
     {
         "name": "Hritik Parashar",
+        "age":"25",
+        "gender":"Male",
+        "bio":"I've played a key role in building high-performing teams. I'm known for my strong interpersonal skills and ability to create inclusive and supportive work environments. In my free time, I enjoy practicing yoga and exploring new culinary experiences.",
+        "shortForm":"HP",
         "img":"https://img.freepik.com/free-photo/fashion-boy-with-yellow-jacket-blue-pants_71767-96.jpg?w=740&t=st=1700222947~exp=1700223547~hmac=ac33e632e23462bb3a3ae374a7a78c42e9546eac43479b4adb6e82c05d08370b"
     },
     {
         "name": "Rohit Yadav",
+        "age":"27",
+        "gender":"Male",
+        "bio":"When writing your bio, include important professional roles and achievements. Add your passions, interests, and how you bring your values to your work. Finally, your bio should give readers a chance to know you and reflect your personality.",
+        "shortForm":"RY",
         "img":"https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?w=740&t=st=1700222415~exp=1700223015~hmac=627fe805cac50caf208e4d6f2b8178db48a0461ad3611be6a488e8d0c0fa150a"
     }]
 }
