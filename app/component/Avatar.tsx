@@ -56,7 +56,7 @@ export default async function AvatarNav(){
                                number++;
                                if (ele.img) {
                                 return (
-                                  <ListItem className='cursor-pointer hover:bg-gray-900' onClick={()=>{handleInfo(ele,flag)}}>
+                                  <ListItem className='cursor-pointer hover:bg-gray-900' key={ele.id} onClick={()=>{handleInfo(ele,flag)}}>
                                   <ListItemAvatar>
                                   <Avatar  className="-ml-2 hover:z-10" alt={ele.name} src={ele.img} />
                                   </ListItemAvatar>
@@ -67,7 +67,7 @@ export default async function AvatarNav(){
                                }
                                else {
                                 return (
-                                  <ListItem className='cursor-pointer hover:bg-gray-900' onClick={()=>{handleInfo(ele,flag)}}>
+                                  <ListItem className='cursor-pointer hover:bg-gray-900' key={ele.id} onClick={()=>{handleInfo(ele,flag)}}>
                                   <ListItemAvatar className='m-0 p-0'>
                                   <Avatar  className="-ml-2 hover:z-10" sx={flag?({ bgcolor: deepOrange[500] }):({ bgcolor: deepPurple[500] })}>{short}</Avatar>
                                   </ListItemAvatar>
